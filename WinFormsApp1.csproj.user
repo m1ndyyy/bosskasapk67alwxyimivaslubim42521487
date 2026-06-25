@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form10_NE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form11_BE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form12_SE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4_MG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form5_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form6_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form6_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form6_MG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form7_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form9_GE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

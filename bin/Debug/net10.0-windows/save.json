@@ -1,0 +1,15 @@
+{
+  "Strength": 0,
+  "Intelligence": -1,
+  "Charisma": 0,
+  "Sanity": 1,
+  "Courage": 0,
+  "GoodEnding": 0,
+  "NeutralEnding": 0,
+  "BadEnding": 0,
+  "SecretEnding": 0,
+  "HasRobot": false,
+  "HasIPad": false,
+  "Inventory": [],
+  "CurrentForm": "Form2_2"
+}
